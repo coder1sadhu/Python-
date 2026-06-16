@@ -1,33 +1,46 @@
 # Python-
 Python learning from code with Harry
-# Python Learning Repository 🐍
+# Python Learning 🐍
 
-This repository contains my Python learning programs and practice exercises.
+This repository contains my Python learning code and practice programs.
 
-## Folder Structure
+## Chapter 1
 
-### Chapter 1
+Basic Python programs:
 
-Contains basic Python programs and concepts.
+* `first.py`
+* `module.py`
 
-Files:
+## Chapter 1 Practice Set
 
-* `first.py` – First Python program (Hello World)
-* `module.py` – Using Python modules
-
-### Chapter 1 PS (Practice Set)
-
-Contains practice questions and solutions of Chapter 1.
-
-Files:
+Practice problems:
 
 * `Problem1.py`
 * `Problem2.py`
 * `Problem3.py`
 * `Problem4.py`
 
-## Purpose
+## Chapter 2
 
-I am learning Python and uploading my practice programs chapter-wise to track my progress.
+Programs related to Python basics and fundamentals:
 
-More chapters and practice sets will be added soon 🚀
+* `variables.py` – Understanding variables in Python
+* `datatypes.py` – Learning different data types
+* `type.py` – Using the `type()` function
+* `operators.py` – Arithmetic, comparison, logical, and assignment operators
+* `input.py` – Taking user input in Python
+* `rules_variables.py` – Rules for naming variables
+
+## Chapter 2 Practice Set
+
+Practice problems:
+
+* `Problem1.py`
+* `Problem2.py`
+* `Problem3.py`
+* `Problem4.py`
+* `Problem5.py`
+* `Problem6.py`
+
+Learning Python chapter by chapter 🚀
+More chapters and practice sets will be added soon.
