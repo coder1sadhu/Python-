@@ -1,6 +1,6 @@
-# Python-
-Python learning from code with Harry
 # Python Learning 🐍
+
+Python learning from CodeWithHarry.
 
 This repository contains my Python learning code and practice programs.
 
@@ -42,5 +42,31 @@ Practice problems:
 * `Problem5.py`
 * `Problem6.py`
 
-Learning Python chapter by chapter 🚀
-More chapters and practice sets will be added soon.
+## Chapter 3
+
+Programs related to Python Strings:
+
+* `intro_to_string.py` – Introduction to strings and indexing
+* `negative_slicing.py` – String slicing and negative indexing
+* `str_functions.py` – Common string functions and methods
+* `escape.py` – Escape sequences in Python strings
+
+## Chapter 3 Practice Set
+
+Practice problems:
+
+* `Problem1.py`
+* `Problem2.py`
+* `Problem3.py`
+* `Problem4.py`
+* `Problem5.py`
+
+## Purpose
+
+I am learning Python chapter by chapter and uploading all examples and practice problems to track my progress and improve my programming skills.
+
+## Future Updates
+
+More chapters and practice sets will be added as I continue my Python learning journey.
+
+🚀 Learning Python one chapter at a time.
