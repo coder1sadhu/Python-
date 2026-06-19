@@ -61,6 +61,25 @@ Practice problems:
 * `Problem4.py`
 * `Problem5.py`
 
+## Chapter 4
+
+Programs related to Python Lists and Tuples:
+
+* `list.py` – Introduction to Python lists
+* `list_methods.py` – Common list methods and operations
+* `tuple.py` – Introduction to tuples
+* `tuple_methods.py` – Common tuple methods and operations
+
+## Chapter 4 Practice Set
+
+Practice problems:
+
+* `Problem1.py`
+* `Problem2.py`
+* `Problem3.py`
+* `Problem4.py`
+* `Problem5.py`
+
 ## Purpose
 
 I am learning Python chapter by chapter and uploading all examples and practice problems to track my progress and improve my programming skills.
