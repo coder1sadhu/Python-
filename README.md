@@ -1,6 +1,6 @@
 # Python Learning 🐍
 
-Python learning from CodeWithHarry.
+Python learning from **CodeWithHarry**.
 
 This repository contains my Python learning code and practice programs.
 
@@ -80,6 +80,30 @@ Practice problems:
 * `Problem4.py`
 * `Problem5.py`
 
+## Chapter 5
+
+Programs related to Python Dictionaries and Sets:
+
+* `Dictionary.py` – Introduction to Python dictionaries
+* `Dict_methods.py` – Dictionary methods and operations
+* `Sets.py` – Introduction to Python sets
+* `Sets_methods.py` – Common set methods
+* `Sets_union_intersection.py` – Union and intersection operations on sets
+
+## Chapter 5 Practice Set
+
+Practice problems:
+
+* `Problem1.py`
+* `Problem2.py`
+* `Problem3.py`
+* `Problem4.py`
+* `Problem5.py`
+* `Problem6.py`
+* `Problem7.py`
+* `Problem8.py`
+* `Problem9.py`
+
 ## Purpose
 
 I am learning Python chapter by chapter and uploading all examples and practice problems to track my progress and improve my programming skills.
@@ -88,4 +112,4 @@ I am learning Python chapter by chapter and uploading all examples and practice 
 
 More chapters and practice sets will be added as I continue my Python learning journey.
 
-🚀 Learning Python one chapter at a time.
+🚀 **Learning Python one chapter at a time.**
