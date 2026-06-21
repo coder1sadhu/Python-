@@ -104,6 +104,26 @@ Practice problems:
 * `Problem8.py`
 * `Problem9.py`
 
+## Chapter 6
+
+Programs related to Python Conditional Statements:
+
+* `Conditionals.py` – Introduction to if-else statements
+* `if_elif_else_ladder.py` – Using if-elif-else ladder
+* `Multiple_if_statements.py` – Working with multiple if statements
+
+## Chapter 6 Practice Set
+
+Practice problems:
+
+* `Problem1.py`
+* `Problem2.py`
+* `Problem3.py`
+* `Problem4.py`
+* `Problem5.py`
+* `Problem6.py`
+* `Problem7.py`
+
 ## Purpose
 
 I am learning Python chapter by chapter and uploading all examples and practice problems to track my progress and improve my programming skills.
