@@ -124,6 +124,34 @@ Practice problems:
 * `Problem6.py`
 * `Problem7.py`
 
+## Chapter 7
+
+Programs related to Python Loops:
+
+* `Loops.py` – Introduction to loops
+* `while_loops.py` – Working with while loops
+* `list_using_while.py` – Iterating through lists using while loop
+* `for_loops.py` – Introduction to for loops
+* `for_loops_iterate.py` – Iterating through lists, tuples, and strings using for loop
+* `for_with_else.py` – Using else with for loops
+* `break_and_continue.py` – Using break and continue statements
+* `pass.py` – Understanding the pass statement
+
+## Chapter 7 Practice Set
+
+Practice problems:
+
+* `Problem1.py`
+* `Problem2.py`
+* `Problem3.py`
+* `Problem4.py`
+* `Problem5.py`
+* `Problem6.py`
+* `Problem7.py`
+* `Problem8.py`
+* `Problem9.py`
+* `Problem10.py`
+
 ## Purpose
 
 I am learning Python chapter by chapter and uploading all examples and practice problems to track my progress and improve my programming skills.
