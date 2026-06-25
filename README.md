@@ -152,6 +152,29 @@ Practice problems:
 * `Problem9.py`
 * `Problem10.py`
 
+## Chapter 8
+
+Programs related to Python Functions and Recursion:
+
+* `Function.py` – Introduction to functions
+* `Funt_argu.py` – Functions with arguments
+* `Default_argu.py` – Default function arguments
+* `Quik_quizz.py` – Function practice example
+* `Recursion.py` – Understanding recursion
+
+## Chapter 8 Practice Set
+
+Practice problems:
+
+* `Problem1.py`
+* `Problem2.py`
+* `Problem3.py`
+* `Problem4.py`
+* `Problem5.py`
+* `Problem6.py`
+* `Problem7.py`
+* `Problem8.py`
+
 ## Purpose
 
 I am learning Python chapter by chapter and uploading all examples and practice problems to track my progress and improve my programming skills.
