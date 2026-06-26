@@ -2,7 +2,7 @@
 
 Python learning from **CodeWithHarry**.
 
-This repository contains my Python learning code and practice programs.
+This repository contains my Python learning code, practice programs, and mini projects created while learning Python.
 
 ## Chapter 1
 
@@ -175,12 +175,33 @@ Practice problems:
 * `Problem7.py`
 * `Problem8.py`
 
+## Mini Projects
+
+### Project 1 – Snake, Water, Gun Game 🐍💧🔫
+
+A simple command-line game built using Python where the user plays **Snake, Water, Gun** against the computer.
+
+**Features:**
+
+* Random computer choice
+* User input (`s`, `w`, `g`)
+* Win, lose, and draw detection
+* Simple game logic using conditional statements
+* Uses Python's built-in `random` module
+
 ## Purpose
 
-I am learning Python chapter by chapter and uploading all examples and practice problems to track my progress and improve my programming skills.
+I am learning Python chapter by chapter and uploading all examples, practice problems, and mini projects to track my progress and improve my programming skills.
 
 ## Future Updates
 
-More chapters and practice sets will be added as I continue my Python learning journey.
+* More Python chapters
+* More practice sets
+* Additional mini projects
+* Object-Oriented Programming (OOP)
+* File Handling
+* Modules & Packages
+* Exception Handling
+* Advanced Python concepts
 
 🚀 **Learning Python one chapter at a time.**
